@@ -18,4 +18,4 @@ This project involves a comprehensive digital forensic analysis of a ransomware 
 ## Featured Evidence
 * **Forensic Timeline:** A minute-by-minute reconstruction of the breach.
 * **Hash Verification:** Cryptographic proof of the malicious payloads found.
-* [View Full Technical Report](./Digital_Forensics_Ransomware_Report_Bihanga.pdf)
+* [View Full Technical Report](./Ransomware-Forensic-Investigation-Report.pdf)
