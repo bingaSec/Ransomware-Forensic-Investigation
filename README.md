@@ -18,4 +18,5 @@ This project involves a comprehensive digital forensic analysis of a ransomware 
 ## Featured Evidence
 * **Forensic Timeline:** A minute-by-minute reconstruction of the breach.
 * **Hash Verification:** Cryptographic proof of the malicious payloads found.
+* **Persistence via Windows Service:** Log analysis identifying the moment of persistence.
 * [View Full Technical Report](./Ransomware-Forensic-Investigation-Report.pdf)
